@@ -24,12 +24,12 @@
     font-size: 5vh;
     cursor: pointer;
     border: none;
-    opacity: 0.5;
+    background: rgb(255, 255, 255, 0.5);
     margin: 1px;
 }
 
 .button:hover {
-    opacity: 1.0;
+    background: rgb(255, 255, 255);
 }
 
 .textview {
