@@ -1,0 +1,45 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+
+}
+
+.back {
+    background: linear-gradient(45deg, #4cbb17, #004953);
+    height: 100vh;
+    width: 100vw;
+}
+
+.button {
+    height: 10vh;
+    width: 15vw;
+    font-size: 5vh;
+    cursor: pointer;
+    border: none;
+    background: rgb(255, 255, 255, 0.5);
+    margin: 1px;
+}
+
+.button:hover {
+    background: rgb(255, 255, 255);
+}
+
+.textview {
+    height: 9vh;
+    width: 61.5vw;
+    margin-left: 0;
+    font-size: 9vh;
+    padding: 0.5vh;
+    border: none;
+    text-align: center;
+    color: white;
+    background: rgb(255, 255, 255, 0.5);
+}
