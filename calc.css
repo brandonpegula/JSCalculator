@@ -28,6 +28,7 @@
     margin: 1px;
     -webkit-appearance: none;
     -moz-appearance: none;
+    appearance: none;
 }
 
 .button:hover {
