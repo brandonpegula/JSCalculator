@@ -27,11 +27,12 @@
     background: rgb(255, 255, 255, 0.5);
     margin: 1px;
     -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none
 }
 
 .button:hover {
     background: rgb(255, 255, 255);
-    -webkit-appearance: none;
 }
 
 .textview {
@@ -45,4 +46,6 @@
     color: white;
     background: rgb(255, 255, 255, 0.5);
     -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none
 }
