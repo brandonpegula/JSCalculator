@@ -26,8 +26,6 @@
     border: none;
     background: rgba(255, 255, 255, 0.5);
     margin: 1px;
-    -webkit-appearance: none;
-    -moz-appearance: none;
 }
 
 .button:hover {
@@ -44,6 +42,4 @@
     text-align: center;
     color: white;
     background: rgba(255, 255, 255, 0.5);
-    -webkit-appearance: none;
-    -moz-appearance: none;
 }
