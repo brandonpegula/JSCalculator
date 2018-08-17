@@ -19,7 +19,7 @@ function back(){ //Function to move one space back in textview.
     document.form.textview.value = equation.substring(0,equation.length-1);
 };
 
-function percent(){
+function percent(){ //Takes value entered and moves decimal two places.
     var equation = document.form.textview.value;
     if (equation) {
         document.form.textview.value = eval(equation/100)
