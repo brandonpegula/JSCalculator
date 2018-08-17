@@ -4,12 +4,6 @@
     padding: 0;
 }
 
-input {
-    -webkit-appearance: none;
-    -moz-appearance: none;
-    appearance: none;
-}
-
 .main {
     position: absolute;
     top: 50%;
@@ -37,6 +31,7 @@ input {
 
 .button:hover {
     background: rgb(255, 255, 255);
+    -webkit-appearance: none;
 }
 
 .textview {
@@ -49,4 +44,5 @@ input {
     text-align: center;
     color: white;
     background: rgb(255, 255, 255, 0.5);
+    -webkit-appearance: none;
 }
