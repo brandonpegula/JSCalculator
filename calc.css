@@ -23,7 +23,7 @@
     width: 15vw;
     font-size: 5vh;
     cursor: pointer;
-    border: 0;
+    border: none;
     background: rgba(255, 255, 255, 0.5);
     margin: 1px;
     -webkit-appearance: none;
