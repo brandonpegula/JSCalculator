@@ -26,6 +26,9 @@
     border: 0;
     background: rgba(255, 255, 255, 0.5);
     margin: 1px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
 }
 
 .button:hover {
