@@ -19,9 +19,9 @@
 }
 
 .button {
-    height: 10vh;
-    width: 15vw;
-    font-size: 5vh;
+    height: 12vh;
+    width: 17vw;
+    font-size: 7vh;
     cursor: pointer;
     border: none;
     background: rgba(255, 255, 255, 0.5);
@@ -35,10 +35,11 @@
 }
 
 .textview {
-    height: 9vh;
-    width: 61.5vw;
+    height: 10vh;
+    width: 69vw;
     margin-left: 0;
-    font-size: 9vh;
+    margin-bottom: 5px;
+    font-size: 10vh;
     padding: 0.5vh;
     border: none;
     text-align: center;
