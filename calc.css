@@ -18,6 +18,8 @@
     width: 100vw;
 }
 
+/* RGBA should be used for all backgrounds moving forward. Webkit and Moz appearances should also be highlighted in the event of mobile issues. */
+
 .button {
     height: 12vh;
     width: 17vw;
@@ -38,7 +40,6 @@
     height: 10vh;
     width: 69vw;
     margin-left: 0;
-    /* margin-bottom: 5px; */
     font-size: 10vh;
     padding: 0.5vh;
     border: none;
